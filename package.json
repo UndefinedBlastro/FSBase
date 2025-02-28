@@ -1,0 +1,20 @@
+{
+  "name": "fsbase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@tryforge/forge.db": "^2.0.9",
+    "@tryforge/forgescript": "^2.2.0",
+    "chalk": "^4.1.2",
+    "dotenv": "^16.4.7",
+    "mongodb": "^6.13.1",
+    "mongoose": "^8.11.0"
+  }
+}
